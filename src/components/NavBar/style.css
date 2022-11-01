@@ -1,0 +1,7 @@
+.close{
+    width: 60px !important;
+}
+
+.toggleClose{
+    transform: rotate(180deg);
+}
